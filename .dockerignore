@@ -1,0 +1,4 @@
+# The workspace is bind-mounted at run time; the build only needs the requirements.
+# (Without this, the ~300 MB of log*.txt and results get sent as build context.)
+*
+!requirements.txt

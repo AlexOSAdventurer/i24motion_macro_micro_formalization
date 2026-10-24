@@ -1,0 +1,9 @@
+# Direct dependencies of simulation.py and simplified_scenario_tests/.
+# Pins match the original (Ubuntu 22.04 / Python 3.10) container; all have cp312 wheels.
+numpy==2.2.6
+pandas==2.3.3
+pyarrow==24.0.0
+matplotlib==3.10.9
+plotly==6.7.0
+dash==4.1.0
+joblib==1.5.3

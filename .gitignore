@@ -1,0 +1,11 @@
+__pycache__/
+simplified_scenario_tests/figures/
+simplified_scenario_tests/tables/
+simplified_scenario_tests/figure_data.csv
+simplified_scenario_tests/verification_config/
+simplified_scenario_tests/verification_results
+simplified_scenario_tests/simulation_dataset_demo/
+simplified_scenario_tests/test_macro*.parquet
+simplified_scenario_tests/test_mask*.parquet
+*.log
+simplified_scenario_tests/log*.txt
